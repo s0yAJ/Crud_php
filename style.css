@@ -1,0 +1,21 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(43,52,167);
+    background: linear-gradient(90deg, rgba(43,52,167,0.76234243697479) 14%, rgba(72,207,156,0.5662640056022409) 71%);
+}
+
+#card{
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
